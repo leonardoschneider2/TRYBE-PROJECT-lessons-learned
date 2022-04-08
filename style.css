@@ -35,6 +35,7 @@ body {
   padding: 5px 15px;
 }
 
+
 #navegador {
   display: inline-block;
   float: right;
@@ -49,7 +50,7 @@ body {
 
 #cabecalho {
   top: 0;
-  position: absolute;
+  position: fixed;
   width: 100%;
   padding: 20px 0;
   background-color: rgb(106, 145, 155);
