@@ -6,7 +6,7 @@
   font-family: Arial, sans-serif;
 }
 
-h1, h2, h3, p {
+h1 , h2 , h3 , p {
   margin: 10px 0;
 }
 
@@ -16,6 +16,7 @@ body {
 
 #titulo {
   display: inline-block;
+  margin-left: 100px;
 }
 
 .navegador-lista-item {
@@ -27,20 +28,17 @@ body {
 
 .navegador-lista-item a {
   color: white;
+  line-height: 2px;
   display: block;
   font-weight: 400;
   font-size: 20px;
   padding: 5px 15px;
 }
 
-#cabecalho-block-title {
-  width: 1000px;
-  margin: 0 auto;
-}
-
 #navegador {
   display: inline-block;
   float: right;
+  margin-right: 100px;
 }
 
 #corpo {
