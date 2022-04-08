@@ -90,7 +90,7 @@ img {
 
 #meu_aprendizado {
   display: inline-block;
-  float: left;
+  padding: 10px 45px;
   width: 500px;
   height: 200px;
   background-color: rgb(236, 236, 236);
@@ -106,12 +106,12 @@ img {
 }
 
 #corpo-barra-lateral {
-  width: 350px;
-  float: left;
+  width: 500px;
   height: 200px;
+  float: right;
   display: inline-block;
   background-color: rgb(236, 236, 236);
-  margin-left: 50px;
+  padding: 10px 45px;
 }
 
 #rodape {
