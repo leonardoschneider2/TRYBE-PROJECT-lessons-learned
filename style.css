@@ -79,7 +79,7 @@ img {
 }
 
 #licoes_aprendidas {
-  margin: 30px ;
+  margin: 30px;
   display: inline-block;
 }
 
@@ -90,29 +90,26 @@ img {
 
 #meu_aprendizado {
   display: inline-block;
-  width: 680px;
+  width: 500px;
   height: 200px;
   background-color: rgb(236, 236, 236);
-  padding: 30px;
 
 }
 
 #meu_aprendizado_paragrafo {
-    text-align: justify;
+  text-align: justify;
 }
 
 #barra_lateral_paragrafo {
-    text-align: justify;
+  text-align: justify;
 }
 
 #corpo-barra-lateral {
   width: 350px;
   height: 200px;
-  right: 20px;
-  display: inline-block;
+  display: inline-block;    
   background-color: rgb(236, 236, 236);
-  padding: 30px;
-  margin-right: 20px;
+  margin-left: 50px;
 }
 
 #rodape {
@@ -140,34 +137,34 @@ img {
 }
 
 #tabela {
-    margin-top: 50px;
-    padding: 30px;
-    background-color: rgb(236, 236, 236);
+  margin-top: 50px;
+  padding: 30px;
+  background-color: rgb(236, 236, 236);
 }
 
 table {
-    display: inline-block;
-    margin-left: 30px;
-    margin-top: 30px;
+  display: inline-block;
+  margin-left: 30px;
+  margin-top: 30px;
 }
 
-th , td{
-    width: 200px;
-    height: 80px;
-    text-align: center;
+th , td {
+  width: 200px;
+  height: 80px;
+  text-align: center;
 }
 
 th {
-    text-transform: uppercase;
-    background-color: rgb(207, 207, 207);
+  text-transform: uppercase;
+  background-color: rgb(207, 207, 207);
 }
 
 td {
-    text-transform: capitalize;
-    background-color: rgb(243, 243, 243);
+  text-transform: capitalize;
+  background-color: rgb(243, 243, 243);
 }
 
 table , th , td {
-    border: 1px solid black;
-    border-collapse: collapse;
+  border: 1px solid black;
+  border-collapse: collapse;
 }
